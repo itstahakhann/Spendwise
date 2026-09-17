@@ -374,11 +374,11 @@ You're free to use, modify, and distribute this software — commercially or per
 
 ## 📬 Contact
 
-**Your Name** — [@your_twitter](https://twitter.com/your_twitter)
+**Taha Khan** — itstahakhann@gmail.com
 
-Project Link: [https://github.com/YOUR_USERNAME/spendwise](https://github.com/YOUR_USERNAME/spendwise)
+Project Link: [https://github.com/itstahakhann/Spendwise)
 
-Found a bug? [Open an issue](https://github.com/YOUR_USERNAME/spendwise/issues/new)
+Found a bug? [Open an issue](https://github.com/itstahakhann/Spendwise/issues/new)
 
 ---
 
